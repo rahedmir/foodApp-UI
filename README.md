@@ -1,5 +1,6 @@
 # foodApp-UI
-Modern Desktop application UI
+
+<h2>Modern Desktop application UI</h2>
 
 <img src="Modern UI.PNG">
 
