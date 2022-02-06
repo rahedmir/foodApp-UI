@@ -1,0 +1,4 @@
+C:\Users\MIR\Desktop\foodApp-UI-master\modern food App UI\Modern Desktop Application\bin\Debug\Modern Desktop Application.exe.config
+C:\Users\MIR\Desktop\foodApp-UI-master\modern food App UI\Modern Desktop Application\obj\Debug\Modern Desktop Application.exe
+C:\Users\MIR\Desktop\foodApp-UI-master\modern food App UI\Modern Desktop Application\obj\Debug\Modern Desktop Application.xml
+C:\Users\MIR\Desktop\foodApp-UI-master\modern food App UI\Modern Desktop Application\obj\Debug\Modern Desktop Application.pdb
